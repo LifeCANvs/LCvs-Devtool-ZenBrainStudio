@@ -148,7 +148,7 @@ Various components are used in this software application. Here is a list with th
 - [LuaCheck](https://github.com/mpeterv/luacheck) tool for linting and static analysis of Lua code: MIT license
 - [LPeg](https://www.inf.puc-rio.br/~roberto/lpeg/) Lua pattern-matching lib based on Parsing Expression Grammars: MIT license
 - [Scintillua](https://github.com/orbitalquark/scintillua) enables Scintilla lexers to be written in Lua, particularly using LPeg, or used as a standalone Lua library for syntax highlighting: MIT license
-- [Scintilla](https://www.scintilla.org/ScintillaDownload.html): Historical Permission Notice and Disclaimer (HPND) license (non-copyleft, permissive)
+- [Scintilla](https://www.scintilla.org/ScintillaDownload.html) source code editing component: Historical Permission Notice and Disclaimer (HPND) license (non-copyleft, permissive)
 - [LuaSocket](https://github.com/lunarmodules/luasocket) network support for Lua: MIT license
 - [LuaSec](https://github.com/lunarmodules/luasec) depends on OpenSSL, and integrates with LuaSocket to make it easy to add secure connections to any Lua applications or scripts: MIT license
 - [Copas](https://github.com/lunarmodules/copas) dispatcher based on coroutines to be used by TCP/IP servers: MIT license
