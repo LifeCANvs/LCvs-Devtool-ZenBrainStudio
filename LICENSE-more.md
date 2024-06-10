@@ -498,7 +498,7 @@ SOFTWARE.
 
 --[[ OpenSSL ]]------------------------------------------------------------
 
-OpenSSL sources are released under the **OpenBSD License**
+OpenSSL 1.1.1 and earlier (up to September 2018) sources are released under the dual OpenSSL license (**Apache 1.0 License**) / SSLeay license (somewhat similar to BSD 4 clause license)
 
 /* ====================================================================
  * Copyright (c) 1998-2016 The OpenSSL Project.  All rights reserved.
