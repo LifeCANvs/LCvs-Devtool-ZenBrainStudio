@@ -129,4 +129,29 @@ to get access to all API files, specifications and tools.
   
 ## License
 
-See [LICENSE](LICENSE).
+See [LICENSE](LICENSE) for details.
+
+Various components are used in this software application. List with source license for each specified:
+
+- ZeroBrane Studio: MIT license
+- Estrela Editor: MIT license
+- Lua: MIT license
+- LuaJIT: MIT license
+- LuaSocket: MIT license
+- Serpent: MIT license
+- WinAPI: MIT license
+- MobDebug: MIT license
+- RemDebug: MIT license
+- Copas: MIT license
+- Luainspect: MIT license
+- Metalua: MIT license
+- LuaFileSystem: MIT license
+- LuaSec: MIT license
+- LuaCheck: MIT license
+- LPeg: MIT license
+- scintillua: MIT license
+- Scintilla: Historical Permission Notice and Disclaimer (HPND) license (non-copyleft, permissive)
+- OpenSSL 1.1.1d: OpenSSL (Apache 1.0) license / SSLeay license (somewhat similar to BSD 4 clause license) - dual licensed
+- wxLua: wxWindows Library License, Version 3
+ 
+
