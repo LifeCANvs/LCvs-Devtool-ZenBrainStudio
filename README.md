@@ -123,7 +123,7 @@ See [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Where is Estrela?
 
-The [Estrela project](http://www.luxinia.de/index.php/Estrela/) that this IDE is based on has been merged into ZeroBrane Studio.
+The [Estrela project](http://web.archive.org/web/20150517061151/http://www.luxinia.de/index.php/Estrela/Estrela) ([SourceForge project](https://sourceforge.net/projects/estrelaeditor/)) that this IDE is based on has been merged into ZeroBrane Studio.
 If you have used Estrela for graphics shader authoring, you can use [this GraphicsCodePack](https://github.com/pixeljetstream/zbstudio-graphicscodepack)
 to get access to all API files, specifications and tools.
   
@@ -131,27 +131,29 @@ to get access to all API files, specifications and tools.
 
 See [LICENSE](LICENSE) for details.
 
-Various components are used in this software application. List with source license for each specified:
+Various components are used in this software application. Here is a list with the source license for each specified:
 
-- ZeroBrane Studio: MIT license
-- Estrela Editor: MIT license
-- Lua: MIT license
-- LuaJIT: MIT license
-- LuaSocket: MIT license
-- Serpent: MIT license
-- WinAPI: MIT license
-- MobDebug: MIT license
-- RemDebug: MIT license
-- Copas: MIT license
-- Luainspect: MIT license
-- Metalua: MIT license
-- LuaFileSystem: MIT license
-- LuaSec: MIT license
-- LuaCheck: MIT license
-- LPeg: MIT license
-- scintillua: MIT license
-- Scintilla: Historical Permission Notice and Disclaimer (HPND) license (non-copyleft, permissive)
-- OpenSSL 1.1.1d: OpenSSL (Apache 1.0) license / SSLeay license (somewhat similar to BSD 4 clause license) - dual licensed
+- [ZeroBrane Studio](https://github.com/pkulchenko/ZeroBraneStudio): MIT license
+- [Estrela Editor](https://sourceforge.net/projects/estrelaeditor/): MIT license
+- [Lua](https://www.lua.org/download.html): MIT license
+- [LuaJIT](https://github.com/LuaJIT/LuaJIT) Just-In-Time compiler for Lua: MIT license
+- [WinAPI](https://github.com/stevedonovan/winapi) minimal but useful Lua bindings to the Windows API: MIT license
+- [Serpent](https://github.com/pkulchenko/serpent) Lua serializer and pretty printer / formatter: MIT license
+- [RemDebug](https://github.com/LuaDist/remdebug) remote debugger for Lua: MIT license
+- [MobDebug](https://github.com/pkulchenko/MobDebug) remote debugger for Lua: MIT license
+  - MobDebug is based on RemDebug and extends it in several ways.
+- [Luainspect](https://github.com/davidm/lua-inspect) tool to do Lua code analysis, semantic highlighting and code auto-completion: MIT license
+- [Metalua](https://github.com/fab13n/metalua) Lua code analysis tool and compiler supporting Compile-Time Meta-Programming: MIT license
+- [LuaFileSystem](https://github.com/lunarmodules/luafilesystem) library to extend Lua file systems functions: MIT license
+- [LuaCheck](https://github.com/mpeterv/luacheck) tool for linting and static analysis of Lua code: MIT license
+- [LPeg](https://www.inf.puc-rio.br/~roberto/lpeg/) Lua pattern-matching lib based on Parsing Expression Grammars: MIT license
+- [Scintillua](https://github.com/orbitalquark/scintillua) enables Scintilla lexers to be written in Lua, particularly using LPeg, or used as a standalone Lua library for syntax highlighting: MIT license
+- [Scintilla](https://www.scintilla.org/ScintillaDownload.html): Historical Permission Notice and Disclaimer (HPND) license (non-copyleft, permissive)
+- [LuaSocket](https://github.com/lunarmodules/luasocket) network support for Lua: MIT license
+- [LuaSec](https://github.com/lunarmodules/luasec) depends on OpenSSL, and integrates with LuaSocket to make it easy to add secure connections to any Lua applications or scripts: MIT license
+- [Copas](https://github.com/lunarmodules/copas) dispatcher based on coroutines to be used by TCP/IP servers: MIT license
+  - Copas uses LuaSocket as the interface with the TCP/IP stack and LuaSec for SSL support.
+- [OpenSSL 1.1.1d](https://github.com/openssl/openssl/tree/OpenSSL_1_1_1-stable): OpenSSL (Apache 1.0) license / SSLeay license (somewhat similar to BSD 4 clause license) - dual licensed
 - wxLua: wxWindows Library License, Version 3
  
 
