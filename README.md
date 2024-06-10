@@ -127,7 +127,7 @@ The [Estrela project](http://www.luxinia.de/index.php/Estrela/) that this IDE is
 If you have used Estrela for graphics shader authoring, you can use [this GraphicsCodePack](https://github.com/pixeljetstream/zbstudio-graphicscodepack)
 to get access to all API files, specifications and tools.
   
-## License
+## Licensing
 
 See [LICENSE](LICENSE) for details.
 
